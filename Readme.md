@@ -30,3 +30,14 @@ Con cada apartado realiza un commit diferente.
 
 6. **Determino quién va ganando**:  
    Comparo los contadores de fichas de ambos jugadores y muestro quién tiene más fichas, o si hay un empate.
+
+
+## Mas métodos de resolver el programa: 
+**inicializar_tablero():**
+Creo esta función para crear y devolver el tablero de Damas (8x8) con las fichas de los jugadores. Esto hace que el código sea más organizado, y si quiero cambiar el tablero, solo modifico esta función.
+
+**contar_fichas(tablero):**
+En esta función recorro el tablero y cuento cuántas fichas tiene cada jugador ('X' y 'O'). La función devuelve los contadores de ambos jugadores.
+
+**mostrar_resultado(contador_X, contador_O):**
+Esta función recibe los contadores de las fichas de cada jugador y muestra quién va ganando o si hay empate. De esta forma, la comparación se centraliza en una sola función, facilitando la modificación y mantenimiento del código.
