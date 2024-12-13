@@ -10,6 +10,17 @@ Con cada apartado realiza un commit diferente.
 
 ![DiagramaExamen (1).jpg](DiagramaExamen%20%281%29.jpg).
 
+String[][] tablero = new String {
+[ ] [N] [ ] [N] [ ] [N] [ ] [N]
+[N] [ ] [N] [ ] [N] [ ] [N] [ ]
+[ ] [N] [ ] [N] [ ] [N] [ ] [N]
+[ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]
+[ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]
+[B] [ ] [B] [ ] [B] [ ] [B] [ ]
+[ ] [B] [ ] [B] [ ] [B] [ ] [B]
+[B] [ ] [B] [ ] [B] [ ] [B] [ ]
+
+}
 
 
 ### Explicación: 
