@@ -13,7 +13,7 @@ Con cada apartado realiza un commit diferente.
 
 
 ### Explicación: 
-1. **Inicializo el tablero de Damas 8x8**:  
+1. **Inicializo el tablero de Damas 8x8**:  .
    Creo una matriz de 8x8 donde cada casilla puede estar vacía o ocupada por una ficha de algún jugador ('X' o 'O').
 
 2. **Cuento las fichas de cada jugador**:  
