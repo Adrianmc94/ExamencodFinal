@@ -23,6 +23,8 @@ String[][] tablero = new String {
 }
 
 
+
+
 ### Explicación: 
 1. **Inicializo el tablero de Damas 8x8**:  .
    Creo una matriz de 8x8 donde cada casilla puede estar vacía o ocupada por una ficha de algún jugador ('X' o 'O').
@@ -31,7 +33,7 @@ String[][] tablero = new String {
    Inicializo dos variables (`contador_X` y `contador_O`) en 0, para contar las fichas de cada jugador.
 
 3. **Recorro el tablero**:  
-   Utilizo dos bucles anidados para recorrer cada fila y columna del tablero (8x8).
+   Utilizo dos bucles anidados para recorrer cada fila y columna del tablero (8x8)..
 
 4. **Verifico si la casilla está ocupada**:  
    Si la casilla contiene una ficha (es decir, no está vacía), imprimo la coordenada de la casilla y el tipo de ficha.
