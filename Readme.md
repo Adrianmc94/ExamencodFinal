@@ -40,4 +40,4 @@ Creo esta función para crear y devolver el tablero de Damas (8x8) con las ficha
 En esta función recorro el tablero y cuento cuántas fichas tiene cada jugador ('X' y 'O'). La función devuelve los contadores de ambos jugadores.
 
 **mostrar_resultado(contador_X, contador_O):**
-Esta función recibe los contadores de las fichas de cada jugador y muestra quién va ganando o si hay empate. De esta forma, la comparación se centraliza en una sola función, facilitando la modificación y mantenimiento del código.
+Esta función recibe los contadores de las fichas de cada jugador y muestra quién va ganando o si hay empate. De esta forma, la comparación se centraliza en una sola función, facilitando la modificación y mantenimiento del código..
